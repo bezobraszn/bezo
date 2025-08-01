@@ -1,0 +1,512 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="🇮🇩 TVDIGITAL🇮🇩",ANTV
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Antv
+
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="🇮🇩 TVDIGITAL🇮🇩",ANTV
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV Indihome
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://iili.io/JMp31cb.png" group-title="🇮🇩 TVDIGITAL🇮🇩",ANTV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45016.m3u8
+
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" tvg-id="13308" ,ANTV HD DIGITAL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=antv
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="🇮🇩 TVDIGITAL🇮🇩",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="🇮🇩 TVDIGITAL🇮🇩",Kompastv Nasional
+#EXTVLCOPT:http-origin=https://www.youtube.com
+#EXTVLCOPT:http-origin=https://www.youtube.com
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://why.biz.id/Iptv/youtubehlschannelid.php?id=UC5BMIWZe9isJXLZZWPWvBlg
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="🇮🇩 TVDIGITAL🇮🇩",KompasTV Indi
+https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="🇮🇩 TVDIGITAL🇮🇩",KompasTV Digital
+http://103.180.118.5:9981/stream/channelid/716321720
+
+
+#EXTINF:-1 tvg-id="Kompas TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="🇮🇩 TVDIGITAL🇮🇩",Kompas TV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Kompass
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="",KOMPAS TV HD
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=kompastv
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩"  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", INDOSIAR INDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR DIGITAL HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666241.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR DIGITAL HD 2
+http://103.180.118.5:9981/stream/channelid/290871490
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR DIGITAL HD 3
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Indosiar
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://ckviptv.newdns.world:8080/eRAm2Ti7ll/ju7rVMFsbu/62227
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="🇮🇩 TVDIGITAL🇮🇩",Inews V+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=inews
+
+
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="🇮🇩 TVDIGITAL🇮🇩",iNews
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Inewstv
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews DIGITAL
+http://103.99.136.34:9981/stream/channelid/1846444973?ticket=A6FCF199CD2524256FA973ABFB56D524D323A2D5&profile=pass
+
+#EXTINF:-1 tvg-country="ID" group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="inews.id" tvg-logo="https://iili.io/d0Usobe.png",INEWS HD
+http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews HD 1 (R+)
+https://1s1.rctiplus.id/inews2023.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews HD 2 (R+)
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png" group-title="🇮🇩 TVDIGITAL🇮🇩",JTV indi
+https://cdn13jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+
+#EXTINF:-1 tvg-id="JAKTV - [Channel 113].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="🇮🇩 TVDIGITAL🇮🇩",JAK TV DIGITAL
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=JakTV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" tvg-id="13285" ,JakTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=jaktv
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" tvg-id="13285" ,JakTV indi
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://streaming.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" tvg-id="13285" ,JakTV vidi
+#EXTVLCOPT:http-referrer=https://yosintv.github.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://yosintv.github.io/player/player2.html?url=https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/5415/file/hls-p/ingest_5415_240p/hdntl=exp=1751722311~acl=%2fstream%2f5415%2ffile%2f*~id=allUsers~data=hdntl~hmac=d7919ba55adde5468139f289cd4c2d3b8e07388b2f82007eb1b568c14b0cf9c1/index.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MNCTV DIGITAL
+http://103.99.136.34:9981/stream/channelid/1115378633?ticket=441D7C313FD416F364B9B101EF6BB27D7C7161D1&profile=pass
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV HD 1 (R+)
+https://1s1.rctiplus.id/mnctv2023.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV HD 2 (R+)
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MNCTV HD V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://tvking6282.cloud/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-country="ID" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MNCTV HD 2
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Mnctv
+
+
+#EXTINF:-1 tvg-country="ID" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MNCTV HD 3
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=mnctv
+
+
+#EXTINF:-1 tvg-country="ID" group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png", MNCTV HD DIGITAL
+http://xtv.ooo:8080/6729400/5718209/350996
+
+#EXTINF:-1 tvg-country="ID" group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png", MNCTV HD-DIGITAL
+https://xtv.ooo:8080/6729400/5718209/350996
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", MetroTV DIGITAL
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://103.180.118.5:9981/stream/channelid/1640891347?profile=pass
+
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://iili.io/JV3xZtS.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MetroTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="",METRO TV HD
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=metrotv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="🇮🇩 TVDIGITAL🇮🇩",Metro TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=metrotv_eko
+
+#EXTINF:-1 tvg-id="" group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/41/New_MetroTV_Logo_and_Slogan_2010.png",Metro TV DIGITAL
+http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID| MOJIO Channel HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MOJIO Channel HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666236.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kucing77899/logo/main/Moji-Chl-19.jpg" group-title="🇮🇩 TVDIGITAL🇮🇩",MOJI DIGITAL
+http://iptvtree.net:8080/live/F25093/29838750/298550.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kucing77899/logo/main/Moji-Chl-19.jpg" group-title="🇮🇩 TVDIGITAL🇮🇩",MOJI 2 DIGITAL
+https://tvking6282.cloud/$k0detv9626/Sports/MojiLiga.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kucing77899/logo/main/Moji-Chl-19.jpg" group-title="🇮🇩 TVDIGITAL🇮🇩",MOJI 3 DIGITAL
+http://103.180.118.5:9981/stream/channelid/2143528816?profile=pass
+
+
+#EXTINF:0 tvg-country="ID" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png group-title="🇮🇩 TVDIGITAL🇮🇩",MOJI HD
+http://103.159.195.61:9981/stream/channelid/1696608012?profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/mojiTV3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MOJI HD 3
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=moji
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MOJI HD Backup
+https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MDTV
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png" group-title="🇮🇩 TVDIGITAL🇮🇩", BLM TAU
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch114.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MDTV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=NetTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MDTV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
+
+
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-url="tvg-url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png",MDTV Indi
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png" group-title="🇮🇩 TVDIGITAL🇮🇩",MDTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+
+#EXTINF:-1 tvg-country=ID" tvg-logo="https://iili.io/JMp36xI.png" group-title="🇮🇩 TVDIGITAL🇮🇩",RCTI HD (R+)
+https://allcutv.rctiplus.id/rcti2023.m3u8
+
+#EXTINF:-1 tvg-country=ID" tvg-logo="https://iili.io/JMp36xI.png" group-title="🇮🇩 TVDIGITAL🇮🇩",RCTI HD 2 (R+)
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://perfecttv.net/logo/rcti.png",RCTI DIGITAL
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Rcti
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="🇮🇩 TVDIGITAL🇮🇩",RCTI V+
+https://tvking6282.cloud/rcti-2.mpd
+
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="🇮🇩 TVDIGITAL🇮🇩",RCTI DIGITAL 2
+http://103.180.118.5:9981/stream/channelid/675124063 
+
+
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="🇮🇩 TVDIGITAL🇮🇩",RCTI (Xtream 1)
+http://extraott-iptv.com:88/live/0229477349/8104258135/400200742.m3u8
+
+
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="🇮🇩 TVDIGITAL🇮🇩",RCTI (Xtream 2)
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191803.m3u8
+
+
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="🇮🇩 TVDIGITAL🇮🇩",RCTI (Xtream 3)
+http://vipmacd.top:8080/VIP0114172561022318/01725610223751/34322
+
+
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="🇮🇩 TVDIGITAL🇮🇩",RCTI (Xtream 4)
+https://mantul.biz.id:443/user010223/user010223/4906.ts
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩"  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", SCTV INDI
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="🇮🇩 TVDIGITAL🇮🇩",SCTV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=SCTV
+
+#EXTINF:-1 tvg-country=a"ID" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png" group-title="🇮🇩 TVDIGITAL🇮🇩",SCTV Digital (Dens)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="🇮🇩 TVDIGITAL🇮🇩",SCTV Digital 2
+http://103.180.118.5:9981/stream/channelid/976701458
+
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="🇮🇩 TVDIGITAL🇮🇩",SCTV HD Oxygen
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=sctv
+
+
+#EXTINF:-1 tvg-country=ID" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="🇮🇩 TVDIGITAL🇮🇩",SCTV HD (Xtream 1)
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162141
+
+
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="🇮🇩 TVDIGITAL🇮🇩",SCTV HD (Xtream 2)
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401586526.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="🇮🇩 TVDIGITAL🇮🇩", SCTV HD (Xtream 3)
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeU6Cyef0UOoKY5QebpqX_bc
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="🇮🇩 TVDIGITAL🇮🇩", TransTV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.com
+
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 7.1.1; 1fznmb8) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_Trans7.png/320px-Logo_Trans7.png" group-title="🇮🇩 TVDIGITAL🇮🇩",TRANS7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_Trans7.png/320px-Logo_Trans7.png" group-title="🇮🇩 TVDIGITAL🇮🇩",TRANS 7 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Trans7_eko
+http://202.147.193.244/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+
+
+#EXTINF:-1 tvg-country"ID" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="🇮🇩 TVDIGITAL🇮🇩",TransTV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Transtv
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeSh858L7OoHQUD50cUKFSVA
+http://202.147.193.244/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="Trans7.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7 HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191804.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=trans7
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 TVDIGITAL🇮🇩",TransTV HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=transtv
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="Trans7.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",rcti HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191804.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=rcti
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 TVDIGITAL🇮🇩",sctv HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=sctv
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 TVDIGITAL🇮🇩",indosiar HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=indosiar
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 TVDIGITAL🇮🇩",gtv HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=gtv
+
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 TVDIGITAL🇮🇩",mnctv HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=mnctv
+
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 TVDIGITAL🇮🇩",inews HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=inews
+
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 TVDIGITAL🇮🇩",tvone HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=tvone
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 TVDIGITAL🇮🇩",metrotv HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=metrotv
+
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 TVDIGITAL🇮🇩",antv HD Backup
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=antv
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/tv1.png",tvOne (Dens)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/320px-TvOne_Logo%282012%29.svg.png" group-title="🇮🇩 TVDIGITAL🇮🇩",tvOne Indi
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="",TVONE
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Tvone
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="",TV ONE HD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="",TVONE HD
+https://tvking6282.cloud/$k0detv9626/Lokal/TVONE-HD.m3u8
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="",TVONE INTECH
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch109.m3u8
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="",TVRI Nasional 1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=tvri
+
+
+#EXTINF:-1 tvg-country"ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="🇮🇩 TVDIGITAL🇮🇩",TVRI Nasional 2
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/lSgiYnp.png" group-title="🇮🇩 TVDIGITAL🇮🇩",TVRI SPORT
+http://lzoq.serv00.net/daili/Smartv.php?id=TVRI
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="",TVRI WORLD INTECH
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch66.m3u8
+
+
+#EXTINF:-1 group-title="🇮🇩 TVDIGITAL🇮🇩" tvg-id="" tvg-logo="",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=tvrisport
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="🇮🇩 TVDIGITAL🇮🇩",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="🇮🇩 TVDIGITAL🇮🇩",TVRI World
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="🇮🇩 TVDIGITAL🇮🇩",TVRI Sport
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="7" group-title="IN🇮🇩DIGITAL" tvg-id="Trans7.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPLdwT9FZJjXAT5Ax65vbychga_ounSNHYxPSzpEcKifF4kqc48VwsMt-wxGOIj8i2HiJwMY66_qtDct5KnXKmKDBZG2ku0IR4HgplftrtdM2-yaYU0Nsujn9aWlxGVpwyr3TdI7XNeC_y_lzu7TGTayhHXUTId10VLpnr01LLpAMudEUeHwwkW3Ym-IKm/s700/TRANS%207.png",TRANS 7
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAImh5Vt25_VOqGpFf4w0g8eIHZW1X4QP3ZPedAoo2JzV6n7T5AJxSo8Zn6VjAU-1yLZjfgPwOs0qcjtl9nd3MMgvi6rB3JSF6fJKJ1z6ar3VjdtIThDZjZchsC3au5hju43NN4XMg3VJ0QdsrT8zByvHXNxj6766EcDnxNdAb9CGh80YsyYeS92T890or/s700/TRANS%20TV.png" group-title="IN🇮🇩DIGITAL", TRANS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="IN🇮🇩DIGITAL",INDOSIAR
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 group-title="IN🇮🇩DIGITAL"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png",ANTV
+https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" group-title="IN🇮🇩DIGITAL",SCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTM3U
+#EXTINF:-1 tvg-id="7" group-title="IN🇮🇩DIGITAL" tvg-id="Trans7.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPLdwT9FZJjXAT5Ax65vbychga_ounSNHYxPSzpEcKifF4kqc48VwsMt-wxGOIj8i2HiJwMY66_qtDct5KnXKmKDBZG2ku0IR4HgplftrtdM2-yaYU0Nsujn9aWlxGVpwyr3TdI7XNeC_y_lzu7TGTayhHXUTId10VLpnr01LLpAMudEUeHwwkW3Ym-IKm/s700/TRANS%207.png",TRANS 7
+https://cdn10jtedge.indihometv.com/atm/DASH/TRANS7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAImh5Vt25_VOqGpFf4w0g8eIHZW1X4QP3ZPedAoo2JzV6n7T5AJxSo8Zn6VjAU-1yLZjfgPwOs0qcjtl9nd3MMgvi6rB3JSF6fJKJ1z6ar3VjdtIThDZjZchsC3au5hju43NN4XMg3VJ0QdsrT8zByvHXNxj6766EcDnxNdAb9CGh80YsyYeS92T890or/s700/TRANS%20TV.png" group-title="IN🇮🇩DIGITAL", TRANS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/TRANSTV/manifest.mpd
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="IN🇮🇩DIGITAL",INDOSIAR
+https://cdn10jtedge.indihometv.com/atm/DASH/INDOSIAR/manifest.mpd
+
+#EXTINF:-1 group-title="IN🇮🇩DIGITAL"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png",ANTV
+https://cdn10jtedge.indihometv.com/atm/DASH/antv/manifest.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" group-title="IN🇮🇩DIGITAL",SCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/SCTV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAImh5Vt25_VOqGpFf4w0g8eIHZW1X4QP3ZPedAoo2JzV6n7T5AJxSo8Zn6VjAU-1yLZjfgPwOs0qcjtl9nd3MMgvi6rB3JSF6fJKJ1z6ar3VjdtIThDZjZchsC3au5hju43NN4XMg3VJ0QdsrT8zByvHXNxj6766EcDnxNdAb9CGh80YsyYeS92T890or/s700/TRANS%20TV.png" group-title="IN🇮🇩DIGITAL", MNC TV
+https://cdn10jtedge.indihometv.com/atm/DASH/MNCTV/manifest.mpd
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="IN🇮🇩DIGITAL",INEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/INEWS/manifest.mpd
+
+#EXTINF:-1 group-title="IN🇮🇩DIGITAL"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png",GTV
+https://cdn10jtedge.indihometv.com/atm/DASH/GTV/manifest.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" group-title="IN🇮🇩DIGITAL",TVONE
+https://cdn10jtedge.indihometv.com/atm/DASH/TVONE/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAImh5Vt25_VOqGpFf4w0g8eIHZW1X4QP3ZPedAoo2JzV6n7T5AJxSo8Zn6VjAU-1yLZjfgPwOs0qcjtl9nd3MMgvi6rB3JSF6fJKJ1z6ar3VjdtIThDZjZchsC3au5hju43NN4XMg3VJ0QdsrT8zByvHXNxj6766EcDnxNdAb9CGh80YsyYeS92T890or/s700/TRANS%20TV.png" group-title="IN🇮🇩DIGITAL", MNC TV
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="IN🇮🇩DIGITAL",inews
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 group-title="IN🇮🇩DIGITAL"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png",gtv
+https://cdn10jtedge.indihometv.com/atm/DASH/gtv/manifest.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" group-title="IN🇮🇩DIGITAL",tvone
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
