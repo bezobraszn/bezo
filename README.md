@@ -15,7 +15,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 - 🛠 [Contribution](#contribution)
 - ⚖ [Legal](#legal)
 - © [License](#license)
-- A curated list of resources related to IPTV.
+
 - 💻 [Apps](#apps)
   - [Web](#web)
   - [Windows](#windows)
