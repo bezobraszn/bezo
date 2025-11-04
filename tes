@@ -88,3 +88,65 @@ https://github.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/6078
 https://github.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/6079
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | DAZELEV",6080
 https://github.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/6080
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB PREMIER 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB PREMIER 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB PREMIER 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB PREMIER 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB PREMIER 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp5.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 1-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs1-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 1-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs1-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 1.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs1.
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 1.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs1.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 2-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs2-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 2-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs2-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 2.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs2.
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 2.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs2.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 3-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs3-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 3-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs3-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 3.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs3.
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 3.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs3.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 4-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs4-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 4-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs4-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 4.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs4.
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 4.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs4.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 5-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs5-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 5-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs5-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 5.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs5.
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | HUB PS", HUB SPORTS 5.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs5.1
