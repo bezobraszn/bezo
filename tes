@@ -4,7 +4,38 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/t
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/tesb1.1
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",B1.2
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/tesb1.2
-
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 1-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/1-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 1-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/1-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 1-3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/1-3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 2-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/2-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 2-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/2-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 2-3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/2-3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 3-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/3-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 3-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/3-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 3-3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/3-3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 4-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/4-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 4-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/4-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",UCL 4-3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/4-3
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",ASTRO 5
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",ASTRO 5.1
@@ -13,7 +44,6 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5.2
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",ASTRO 5.3
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5.3
-
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",MEG1
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Meg1.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",MEG2
