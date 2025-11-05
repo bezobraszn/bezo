@@ -1,3 +1,30 @@
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",B1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/tesb1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",B1.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/tesb1.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",B1.2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/tesb1.2
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",ASTRO 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",ASTRO 5.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",ASTRO 5.2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5.2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",ASTRO 5.3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5.3
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",MEG1
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Meg1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",MEG2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Meg2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",MEG3
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Meg3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",MEG4
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Meg4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | ALLSPO",MEG5
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus5/Meg5.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | FIX ERROR",195
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/195
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | FIX ERROR",196
