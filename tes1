@@ -665,6 +665,21 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Now/7
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 4",NOW 7b
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Now/7b
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 5ns",ns1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 5ns",ns2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 5ns",ns3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 5ns",ns4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 5ns",ns5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 5ns",ns6
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns6.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 5ns",ns7
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns7.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 5",NOW 1
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/now-sport1.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 5",NOW 2
