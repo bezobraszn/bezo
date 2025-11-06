@@ -1,3 +1,21 @@
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm206.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm206.m3u
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",line_greatstar-dazn-1.m3u8
+https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/line_greatstar-dazn-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",line_greatstar-dazn-2.m3u8
+https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/line_greatstar-dazn-2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",line_greatstar-dazn-3.m3u8
+https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/line_greatstar-dazn-3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",line_greatstar-dazn-4.m3u8
+https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/line_greatstar-dazn-4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",line_greatstar-dazn-5.m3u8
+https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/line_greatstar-dazn-5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",line_greatstar-dazn-1.m3u8
+https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/line_greatstar-dazn-laliga-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",line_greatstar-dazn-1.m3u8
+https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/line_greatstar-dazn-laliga-2.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm200.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm200.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm201.m3u8
@@ -10,8 +28,7 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TE
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm204.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm205.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm205.m3u
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm2020.m3u8
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm2020.m3u
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm207.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm207.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm208.m3u8
