@@ -1,5 +1,28 @@
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm206.m3u8
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm206.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb80.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb80.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb81.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb81.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb82.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb82.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb83.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb83.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb84.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb84.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb85.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb85.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb86.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb86.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb87.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb87.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb88.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb88.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb89.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb89.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-spb90.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb90.m3u
+
+
+
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",line_greatstar-dazn-1.m3u8
 https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/line_greatstar-dazn-1.m3u8
@@ -18,6 +41,7 @@ https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/line_gre
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm200.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm200.m3u
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/spb90.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm201.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm201.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm202.m3u8
@@ -28,7 +52,8 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TE
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm204.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm205.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm205.m3u
-
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm206.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm206.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm207.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/TESCH/dm207.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-dm208.m3u8
