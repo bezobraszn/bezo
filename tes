@@ -10,13 +10,15 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/fo
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/fo193.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-fo194.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/fo194.m3u
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-fo195.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " sub-group-title="TES | N0S",ns-fo189.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " sub-group-title="TES | N0S0",ns-fo189.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/fo189.m3u
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title-sub="TES | N0S",ns-fo190.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-sub-title="TES | N0S0",ns-fo190.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/fo190.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title-sub="TES | N0S0",ns-fo188.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/fo188.m3u
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-fo195.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/fo195.m3u
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | N0S",ns-fo196.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/fo196.m3u
