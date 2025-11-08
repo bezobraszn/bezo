@@ -1396,5 +1396,49 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/as
 #EXTVLCOPT:http-referrer=https://saileitv.com/
 #EXTVLCOPT:http-origin=https://saileitv.com
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP0",ASTRO assps
-
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/assps
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://saileitv.com/
+#EXTVLCOPT:http-origin=https://saileitv.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP0",ASTRO TES 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://saileitv.com/
+#EXTVLCOPT:http-origin=https://saileitv.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP0",ASTRO TES 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://saileitv.com/
+#EXTVLCOPT:http-origin=https://saileitv.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP0",ASTRO TES 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://saileitv.com/
+#EXTVLCOPT:http-origin=https://saileitv.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP0",ASTRO TES 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://saileitv.com/
+#EXTVLCOPT:http-origin=https://saileitv.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP0",ASTRO TES 1a
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://saileitv.com/
+#EXTVLCOPT:http-origin=https://saileitv.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP0",ASTRO TES 2a
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://saileitv.com/
+#EXTVLCOPT:http-origin=https://saileitv.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP0",ASTRO TES 3a
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes3
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://saileitv.com/
+#EXTVLCOPT:http-origin=https://saileitv.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP0",ASTRO TES 4a
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes4
