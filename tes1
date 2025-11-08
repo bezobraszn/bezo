@@ -695,9 +695,9 @@ https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/now-sport6.m
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="TES | 5",NOW 7
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/now-sport7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD 23232_top_hub-premier
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_hub-premier-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD 23232_top_hub-premier
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_hub-premier-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HS1 23232_top_hub-sport-1.m3u8
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_hub-sport-1.m3u8
@@ -709,39 +709,39 @@ https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_hub-sport-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HS5 23232_top_hub-sport-5.m3u8
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_hub-sport-5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD birutv-hub_premier_1
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/birutv-hub_premier_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 HD birutv-hub_premier_2
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/birutv-hub_premier_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 FHD fastopen-hub_premier_1
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen-hub_premier_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD fastopen-hub_premier
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen-hub_premier_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 3 FHD fastopen-hub_premier
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen-hub_premier_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 4 FHD fastopen-hub_premier
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen-hub_premier_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD fastopen_live-hub_premier-1
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen_live-hub_premier-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD fastopen_live-hub_premier-
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen_live-hub_premier-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD fastopen_live-hub_premier-
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen_live-hub_premier-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 3 FHD fastopen_live-hub_premier-
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen_live-hub_premier-4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 4 FHD fastopen_live-hub_premier-
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen_live-hub_premier-5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD fastopen_live-hub_premier_1
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen_live-hub_premier_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD fastopen_live-hub_premier_
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen_live-hub_premier_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 3 FHD fastopen_live-hub_premier_
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen_live-hub_premier_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 4 FHD fastopen_live-hub_premier_
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/fastopen_live-hub_premier_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD line-greatstar-hub-premier-1
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/line-greatstar-hub-premier-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB  PREMIER 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB  PREMIER 2 FHD line-greatstar-hub-premier2
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/line-greatstar-hub-premier2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB SPORTS 1 SD
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/line-greatstar-hub-sport-1.m3u8
@@ -759,9 +759,9 @@ https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/main_light
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/main_light_ott-hub_premier-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HP5 main_light_ott-hub_premier-5.m3u8
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/main_light_ott-hub_premier-5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 1 HD tv_greatstar-hub_premier-1
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/tv_greatstar-hub_premier-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HUB PREMIER 2 FHD tv_greatstar-hub_premier-2
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/tv_greatstar-hub_premier-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org.svg.png" group-title="TES | HUB SPORTS",HS1 v3tv-live-hub-sport-1a.m3u8
 https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/v3tv-live-hub-sport-1(1).m3u8
