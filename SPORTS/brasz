@@ -447,6 +447,63 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/4-
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH | TES] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 #EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335436&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335437&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro3
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335438&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro4
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335439&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro5
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335440&extension=m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro30
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335430&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro31
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335431&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro32
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335432&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro33
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335433&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro34
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335434&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro35
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335435&extension=m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro41
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335441&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro42
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335442&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro43
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335443&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro44
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335444&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro45
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335445&extension=m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast1
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast2
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast3
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast4
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast5
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast6
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports6/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast7
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports7/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast8
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports8/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast9
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports9/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast10
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports10/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", EP1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", EP2
