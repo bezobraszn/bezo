@@ -743,3 +743,10 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3902
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3901
 #EXTINF:-1 group-title="SPORT" tvg-logo="http://luckonline.eu/icon/beINSports3En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 0HD EN
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3900
+
+#EXTINF:-1 group-title="SPOT" tvg-logo="" tvg-id="" ,BEIN 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
+#EXTINF:-1 group-title="SPOT" tvg-logo="" tvg-id="" ,BEIN 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
+#EXTINF:-1 group-title="SPOT" tvg-logo="" tvg-id="" ,BEIN 3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/83.m3u8
