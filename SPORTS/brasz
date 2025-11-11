@@ -519,3 +519,48 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep7.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep8.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", USNET
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Usnet.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/c7a18d2aba4d4f00e16970ef85a95ab6.png" tvg-id="10TV.in" ,BEIN SportS 1 FR
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1003
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/2cb457119c65c264fca87d477d9c27e2.png" tvg-id="BeinSports2.fr" ,BEIN Sports 2 FR
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1004
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/2cb457119c65c264fca87d477d9c27e2.png" tvg-id="BeinSports2.fr" ,BEIN Sports 3 FR
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1005
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/2584d7cc8214592da5b08b12d21f914c.png" tvg-id="beINSports.us" ,BEIN Sprts 1 US
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1955
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/2584d7cc8214592da5b08b12d21f914c.png" tvg-id="beINSports.us" ,BEIN Sprts 2 US
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1956
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/2584d7cc8214592da5b08b12d21f914c.png" tvg-id="beINSports.us" ,BEIN Sprts 3 US
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1957
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports1En.qa.png" tvg-id="beINSports1En.qa" ,BEIN Sprts 1HD EN
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2243
+#EXTINF:-1 group-title="SPORTS" tvg-id="10TV.in" ,BEIN SPRTS 2 EN
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/924
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports3En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 3HD EN
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3906
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/BeinSportsPremium1.qa.png" tvg-id="10TV.in" ,BEIN Sprts Premium 1 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2246
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/BeinSportsPremium2.qa.png" tvg-id="10TV.in" ,BEIN Sprts premium2 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2245
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports2En.qa.png" tvg-id="beINSports2En.qa" ,BEIN Sprts Premium 3HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2242
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports2En.qa.png" tvg-id="beINSports2En.qa" ,BEIN Sprts Premium 4HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2243
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports1En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 1 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2253
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports2En.qa.png" tvg-id="beINSports2En.qa" ,BEIN Sprts 2 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3058
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports3En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 3 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3059
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports4En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 4HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2250
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports5En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 5HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2249
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports6En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 6HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2248
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports7En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 7HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2247
