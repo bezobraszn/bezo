@@ -118,14 +118,11 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/B
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH|BEIN] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 #EXTM3U
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN 1
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/Ben1
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN 2
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/Ben2
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN 3
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/Ben3
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN NBA
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/Ben8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BENS 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bens1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BENS 1a
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bens1a
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 1-1
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs1-1_epg.xml.gz
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 1
