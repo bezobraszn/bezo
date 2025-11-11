@@ -583,3 +583,60 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2249
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2248
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports7En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 7HD
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2247
+
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-289
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-289
+#EXTINF:-1 tvg-logo="" group-title="TES-LG-ASTRO",ASTRO-386
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-386
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-387
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-387
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-388
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-388
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-535
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-535
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-536
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-536
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-537
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-537
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-538
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-538
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-539
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-539
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-590
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-590
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-953
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-953
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tess1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-tess1
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tess2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-tess2
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes1
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes2
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes3
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes4
+
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-539
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/aspl1-539
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-589
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/aspl1-589
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-952
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/aspl1-952
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes0
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/aspl1-tes
+
+tnt1hd
+tnt2
+tnt2.1
+tnt3_fhd
+tnt3_hd
+tnt3sd
+tnt4
+tnt4_hd
+tnt4fhd
+tnt_2_fhd
+tnt_4
+tntsp
