@@ -122,7 +122,12 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/B
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bens1
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BENS 1a
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bens1a
-
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/Bein1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/Bein2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/Bein3
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 1-1
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs1-1_epg.xml.gz
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 1
