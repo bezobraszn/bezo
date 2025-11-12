@@ -1,28 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 3 tes res0
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN3-RES0
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 3 tes resO
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN3-RESO
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 1 HD
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_619
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 1 FHD
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_518
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 2 HD
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_519
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 3 SD
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_520
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 3 HD
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_215
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 4 FHD
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_620
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 4 FHD
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_214
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 4 FHD
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_521
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 5 FHD
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_522
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 5 FHD
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_213
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 2 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_2_HD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_4-FHD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN.4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_4.FHD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN_4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_4_FHD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN.5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_5.FHD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN_5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_5_FHD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN_1 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_1-HD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN_1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_1_FHD
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 2?
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_216
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 1?
