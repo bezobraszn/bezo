@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EL_1-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_1-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EL_1-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_1-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EL_1-3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_1-3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EL_1-4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_1-4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EL_1-5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_1-5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EL_1-6
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_1-6
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EL_1-7
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_1-7
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN +
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/DAZN/Dz0.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN 1
