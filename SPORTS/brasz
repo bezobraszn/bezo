@@ -134,33 +134,51 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/6
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/647
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", 650
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/650
-#EXTINF:-1 tvg-logo=" " group-title="CH| BEIN", bEIN3-
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/bein3hd
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN1
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport1-1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport1-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport2-1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport2-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport2.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport3-1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport3-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport3.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport4.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport5.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", bEIN2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/bEIN2.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="CH| BEIN", BEIN1
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/Bein1
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN2
+#EXTINF:-1 tvg-id=" " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="CH| BEIN", BEIN2
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/Bein2
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN3
+#EXTINF:-1 tvg-id=" " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="CH| BEIN", BEIN3
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/Bein3
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 1-1
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs1-1_epg.xml.gz
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="CH| BEIN", BEIN 1
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs1_epg.xml.gz
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 2
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="CH| BEIN", BEIN 2
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs2_epg.xml.gz
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 3
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="CH| BEIN", BEIN 3
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs3_epg.xml.gz
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 4
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="CH| BEIN", BEIN 4
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs4_epg.xml.gz
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 5
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="CH| BEIN", BEIN 5
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs5_epg.xml.gz
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 6
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="CH| BEIN", BEIN 6
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs6_epg.xml.gz
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 7
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="CH| BEIN", BEIN 7
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs7_epg.xml.gz
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://lo1.in/bss/bss8.png" group-title="CH| BEIN", BEIN 8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs8_epg.xml.gz
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 9
+#EXTINF:-1 tvg-id=" " tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="CH| BEIN", BEIN 9
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs9_epg.xml.gz
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN TES 1
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/tesb1
