@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+http://mains.services/live/bshorty/Zv5le07a0J/f67a882c-d564-4cff-b9db-19b8edef542d.m3u
