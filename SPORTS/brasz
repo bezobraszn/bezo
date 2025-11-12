@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 3 tes res0
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN3-RES0
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 3 tes resO
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN3-RESO
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 1 HD
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_619
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 1 FHD
