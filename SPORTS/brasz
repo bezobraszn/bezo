@@ -4,7 +4,6 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hu
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HP 1.LG
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp1.lg
 
-#EXTM3U
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 1
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_1
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 2 HD
