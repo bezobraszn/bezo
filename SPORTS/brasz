@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", hubsports1
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hubsports1
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HP 1.LG
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp1.lg
-
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 1
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_1
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 2 HD
@@ -420,6 +415,21 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Arena/
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH| HUB SPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 #EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", HUBSP-FO1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", HUBSP-FO2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", HUBSP-FO3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", HUBSP-FO4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", HUBSP-FO5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", hubsports1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hubsports1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HP 1.LG
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp1.lg
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER 1
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo1.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER 2
@@ -731,6 +741,15 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2248
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports7En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 7HD
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2247
 
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO", ASTRO PL-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-pl1-fhd
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO", ASTRO PL.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-pl1.fhd
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO", ASTRO PL-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/aspl2-FHD
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO", ASTRO PL.2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/aspl2-fhd
+
 #EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-289
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-289
 #EXTINF:-1 tvg-logo="" group-title="TES-LG-ASTRO",ASTRO-386
@@ -765,7 +784,6 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/t
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes3
 #EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes4
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes4
-
 #EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-539
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/aspl1-539
 #EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-589
@@ -775,15 +793,27 @@ https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/as
 #EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes0
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/aspl1-tes
 
-tnt1hd
-tnt2
-tnt2.1
-tnt3_fhd
-tnt3_hd
-tnt3sd
-tnt4
-tnt4_hd
-tnt4fhd
-tnt_2_fhd
-tnt_4
-tntsp
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 1 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt1hd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt2
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 2.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt2.1
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 3 FHD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt3_fhd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 3 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt3_hd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 3 SD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt3sd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt4
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 4 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt4_hd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 4 FHD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt4fhd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 2 FHD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt_2_fhd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt_4
+#EXTINF:-1 tvg-logo=" " group-title="TES-D0L0", TNT SPORTS
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tntsp
