@@ -1,0 +1,819 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 2 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_2_HD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_4-FHD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN.4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_4.FHD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN_4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_4_FHD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN.5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_5.FHD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN_5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_5_FHD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN_1 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_1-HD
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|EL_DAZN",DAZN_1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/DAZN_1_FHD
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 2?
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_216
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", DAZN 1?
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_217
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", SPORTV
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_515
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", SPORTV+
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_516
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", NBA TV
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_517
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", SPORTV HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_523
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EUROSPORTS 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_524
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EUROSPORTS 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_525
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", BTV 3TV
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_526
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", SPORTV
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_527
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", STARCRIME
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_614
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", SPOTLITE
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_615
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", VIVA TV
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_616
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", TV?
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_617
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", SELECAO TV
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_618
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EUROSPORTS 1 FHD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_621
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", SPORTV
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_622
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", SPORTING TV
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_623
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EL_210
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_210
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EL_211
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_211
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", EL_212
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_212
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", TV LAIN-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_624
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", TV LAIN-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_625
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|ELV1", TV LAIN-3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Eleven/EL_626
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN +
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/DAZN/Dz0.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/DAZN/Dz1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/DAZN/Dz2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/DAZN/Dz3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/DAZN/Dz4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/DAZN/Dz5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN 6
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/DAZN/Dz6.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN 7
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/DAZN/Dz7.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN_PT_1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/DY_DAZN_PT_1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN_PT_2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/DY_DAZN_PT_2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN_PT_3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/DY_DAZN_PT_3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN_PT_4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/DY_DAZN_PT_4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN_PT_5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/DY_DAZN_PT_5.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN_PT_1-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/DY_DAZN_PT_1-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN_PT_1-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/DY_DAZN_PT_1-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN_PT_1-3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/DY_DAZN_PT_1-3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN_PT_1-4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/DY_DAZN_PT_1-4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|DAZN", DAZN_PT_1-5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/DY_DAZN_PT_1-5
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH| DAZN] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/1_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 1 SD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/1sd_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/2_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 2 SD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/2sd_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/3.1_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 3.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/3.epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 3_
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/3_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 3 FHD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/3fhd_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 3 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/3hd_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/4_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| DAZN", DAZN 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/5_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH |DAZN", DAZN 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/D1_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH |DAZN", DAZN 1 SD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/D1sd_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH |DAZN", DAZN 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/D2_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH |DAZN", DAZN 2 SD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/D2sd_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH |DAZN", DAZN 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/D3_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH |DAZN", DAZN 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/D4_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH |DAZN", DAZN 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Dazn/D5_epg.xml.gz
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH| BEIN] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 1-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein1-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 1-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein1-2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 2-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein2-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 3-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein3-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 4-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein4-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 4-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein4-2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 5-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein5-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 5-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein5-2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 6-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein6-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 6
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein6.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 7-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein7-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 7
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein7.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 8-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein8-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein8.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 9-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein9-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN 9
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Bein9.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN EXTRA 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Beinex1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN EXTRA 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Beinex2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN MY 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Beinmy1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN MY 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Beinmy2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN MY 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Beinmy3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN TH 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Beinth1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN TH 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Beinth2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEIN TH 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/BEIN/Beinth3.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEN560
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN560
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEN561
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN561
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEN562
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN562
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEN563
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN563
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEN564
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN564
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEN565
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN565
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEN566
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN566
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH|BEIN", BEN570
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN570
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH|BEIN] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="CH| BEIN", BEIN1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/Bein1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="CH| BEIN", BEIN2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/Bein2
+#EXTINF:-1 tvg-id=" " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="CH| BEIN", BEIN3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/Bein3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN 1-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs1-1_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="CH| BEIN", BEIN 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs1_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="CH| BEIN", BEIN 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs2_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="CH| BEIN", BEIN 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs3_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="CH| BEIN", BEIN 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs4_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="CH| BEIN", BEIN 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs5_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="CH| BEIN", BEIN 6
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs6_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="CH| BEIN", BEIN 7
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs7_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://lo1.in/bss/bss8.png" group-title="CH| BEIN", BEIN 8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs8_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="CH| BEIN", BEIN 9
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bs9_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN560
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN560
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN561
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN561
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN562
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN562
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN563
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN563
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN564
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN564
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN565
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN565
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN566
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN566
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEN570
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BEN570
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BENS 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bens1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BENS 1a
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/bens1a
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", 640
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/640
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", 642
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/642
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", 644
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/644
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", 645
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/645
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", 647
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/647
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", 650
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/650
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport1-1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport1-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport2-1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport2-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport2.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport3-1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport3-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport3.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport4.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BeinSport5.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/TES/BeinSport5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN TES 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/tesb1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN BEIN TES 1.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/tesb1.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH| BEIN", BEIN BEIN TES 1-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Bein/tesb1.2
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH| ASTRO] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp1-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 1.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp2-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 2.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp3-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 3.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp3-2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 3-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp4-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 4.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5-2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5-3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5_
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5.0.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5.0
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5.0.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5.1.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5.1-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5.1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5.2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5.2.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5.2-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5.2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5.3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5.3.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5.3-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5.3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL 5.4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Asp5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO ARENA 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astaren.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO ARENA 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astaren2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO FOOTBALL
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astftbol.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astpl.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astpl2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astpl3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astpl4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PLUS
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astplus.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO Futbol
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astrofutbol
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO Astrogrand
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astrogrand
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL_1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astropl
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL_2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/Astropl2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL_2.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/astropl2_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL_3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/astropl3_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL_4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/astropl4_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL_5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/astropl_epg.xml.gz
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL TES 5-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL TES 5.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL TES 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5.2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ASTRO", ASTRO PL TES5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Astro/tes.asp5.3
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH| ARENA] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ARENA", ARENA 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Arena/arena1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ARENA", ARENA 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Arena/arena2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ARENA", ARENA 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Arena/arena3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ARENA", ARENA 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Arena/arena4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ARENA", ARENA PREMIUM 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Arenaarenapremium1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ARENA", ARENA PREMIUM 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Arena/arenapremium2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | ARENA", ARENA PREMIUM 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Arena/arenapremium3.m3u8
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH| HUB SPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", HUBSP-FO1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", HUBSP-FO2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", HUBSP-FO3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", HUBSP-FO4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", HUBSP-FO5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP", hubsports1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hubsports1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HP 1.LG
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp1.lg
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp-fo5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 1-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs1-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 1-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs1-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 1.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs1.
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 1.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs1.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 2-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs2-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 2-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs2-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 2.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs2.
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 2.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs2.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 3-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs3-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 3-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs3-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 3.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs3.
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 3.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs3.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 4-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs4-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 4-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs4-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 4.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs4.
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 4.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs4.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs5
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 5-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs5-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 5-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs5-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 5.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs5.
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPORTS 5.1 
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hs5.1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",STARHUB 1  
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/starhub1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",STARHUB 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/starhub2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPOTV  
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/spotv
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB SPOTV2  
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/spotv2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER ALT 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER ALT 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER ALT 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER ALT 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | HUB SP",HUB PREMIER ALT 5 
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Hub/hp5.m3u8
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH| NOW SPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-1dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 1.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-1fo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 1-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-1lg.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 1'
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-1sb.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-2dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 2.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-2fo.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 2-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-2fo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-3dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 3-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-3fo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-4dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 4-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-4fo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-5dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 5-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-5fo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 6
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-6dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 6-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-6fo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 7
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-7dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 7-
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-7fo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 4K
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-fo-4k.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS 4K-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-fo-4k1.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-fo-pl1.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-fo-pl2.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-fo-pl3.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-fo-pl4.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL 5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-fo-pl5.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL 4K
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-pl-4k-dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL 4K-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-pl-4k1-dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-pl1-dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-pl2-dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-pl3-dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-pl4-dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL4.
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-pl4-lg.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL5
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-pl5-dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL6
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-pl6-dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PL7
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-pl7-dm.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PRIME HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-primeHD-fo.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | NOW SPORTS", NOW SPORTS PRIME FHD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/Now/ns-primelgFHD.m3u8
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH|UCL] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 1-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/1-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 1-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/1-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 2-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/2-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 2-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/2-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 2-3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/2-3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 3-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/3-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 3-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/3-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 3-3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/3-3
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/4
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 4-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/4-1
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 4-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/4-2
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | UCL", UCL 4-3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/UCL/4-3
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [CH | TES] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335436&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335437&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro3
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335438&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro4
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335439&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro5
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335440&extension=m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro30
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335430&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro31
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335431&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro32
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335432&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro33
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335433&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro34
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335434&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro35
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335435&extension=m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro41
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335441&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro42
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335442&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro43
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335443&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro44
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335444&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", astro45
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335445&extension=m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast1
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast2
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast3
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast4
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast5
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast6
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports6/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast7
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports7/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast8
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports8/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast9
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports9/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", ast10
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports10/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", EP1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", EP2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", EP3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", EP4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", EP5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", EP6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep6.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", EP7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep7.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", EP8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep8.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="CH | TES", USNET
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Usnet.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/c7a18d2aba4d4f00e16970ef85a95ab6.png" tvg-id="10TV.in" ,BEIN SportS 1 FR
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1003
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/2cb457119c65c264fca87d477d9c27e2.png" tvg-id="BeinSports2.fr" ,BEIN Sports 2 FR
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1004
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/2cb457119c65c264fca87d477d9c27e2.png" tvg-id="BeinSports2.fr" ,BEIN Sports 3 FR
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1005
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/2584d7cc8214592da5b08b12d21f914c.png" tvg-id="beINSports.us" ,BEIN Sprts 1 US
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1955
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/2584d7cc8214592da5b08b12d21f914c.png" tvg-id="beINSports.us" ,BEIN Sprts 2 US
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1956
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.luckonline.eu:80/images/2584d7cc8214592da5b08b12d21f914c.png" tvg-id="beINSports.us" ,BEIN Sprts 3 US
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1957
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports1En.qa.png" tvg-id="beINSports1En.qa" ,BEIN Sprts 1HD EN
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2243
+#EXTINF:-1 group-title="SPORTS" tvg-id="10TV.in" ,BEIN SPRTS 2 EN
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/924
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports3En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 3HD EN
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3906
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/BeinSportsPremium1.qa.png" tvg-id="10TV.in" ,BEIN Sprts Premium 1 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2246
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/BeinSportsPremium2.qa.png" tvg-id="10TV.in" ,BEIN Sprts premium2 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2245
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports2En.qa.png" tvg-id="beINSports2En.qa" ,BEIN Sprts Premium 3HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2242
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports2En.qa.png" tvg-id="beINSports2En.qa" ,BEIN Sprts Premium 4HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2243
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports1En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 1 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2253
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports2En.qa.png" tvg-id="beINSports2En.qa" ,BEIN Sprts 2 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3058
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports3En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 3 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3059
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports4En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 4HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2250
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports5En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 5HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2249
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports6En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 6HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2248
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://luckonline.eu/icon/beINSports7En.qa.png" tvg-id="10TV.in" ,BEIN Sprts 7HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2247
+
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO", ASTRO PL-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-pl1-fhd
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO", ASTRO PL.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-pl1.fhd
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO", ASTRO PL-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/aspl2-FHD
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO", ASTRO PL.2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/aspl2-fhd
+
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-289
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-289
+#EXTINF:-1 tvg-logo="" group-title="TES-LG-ASTRO",ASTRO-386
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-386
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-387
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-387
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-388
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-388
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-535
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-535
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-536
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-536
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-537
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-537
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-538
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-538
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-539
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-539
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-590
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-590
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-953
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-953
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tess1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-tess1
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tess2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/astro-tess2
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes1
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes2
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes3
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes3
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tes4
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-539
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/aspl1-539
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-589
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/aspl1-589
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-952
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/aspl1-952
+#EXTINF:-1 tvg-logo=" " group-title="TES-LG-ASTRO",ASTRO-tes0
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes/aspl1-tes
+
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 1 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt1hd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt2
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 2.1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt2.1
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 3 FHD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt3_fhd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 3 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt3_hd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 3 SD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt3sd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt4
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 4 HD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt4_hd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 4 FHD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt4fhd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 2 FHD
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt_2_fhd
+#EXTINF:-1 tvg-logo=" " group-title="TES-TNT", TNT 4
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tnt_4
+#EXTINF:-1 tvg-logo=" " group-title="TES-D0L0", TNT SPORTS
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/tes2/tntsp
