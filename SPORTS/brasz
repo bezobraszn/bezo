@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1", astropremierleague
+https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/astropremierleague.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1", astropremierleague2
+https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/astropremierleague2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1", Elev1
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1", Elev2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1", Elev3
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1", ctv 1
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/ChampionTV1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1", ctv 2
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/ChampionTV2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1", ctv 3
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/ChampionTV3.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="CH | CTV", 🔹🔹🔹CTV1🟨🔹🔹🔹
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
