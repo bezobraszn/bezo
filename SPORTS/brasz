@@ -1,4 +1,70 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", astrofootball.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/astrofootball.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", astrograndstand.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/astrograndstand.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", astropremierleague.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/astropremierleague.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", astropremierleague2.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/astropremierleague2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroBadminton.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroBadminton.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroBola1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroBola1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroBola2.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroBola2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroSS1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroSS1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroSS2.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroSS2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroSS3.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroSS3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroSS4.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroSS4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroSSB1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroSSB1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroSSB2.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroSSB2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroSSB3.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroSSB3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", AstroSSB4.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroSSB4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", Elev1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/Elev1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", Elev2.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/Elev2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", Elev4.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/Elev3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", Elev4.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/Elev4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", Elev5.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/Elev5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", Elev6.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/Elev6.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", Elev7.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/Elev7.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", ElevenPL1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/ElevenPL1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", ElevenPL2.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/ElevenPL2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", ElevenPL3.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/ElevenPL3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", ElevenPL4.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/ElevenPL4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", ElevenPT1.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/ElevenPT1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", ElevenPT2.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/ElevenPT2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", ElevenPT3.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/ElevenPT3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", ElevenPT4.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/ElevenPT4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", ElevenPT5.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/ElevenPT5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", ElevenPT6.m3u8
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/ElevenPT6.m3u8
+
+#EXTM3U
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1", astropremierleague
 https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/astropremierleague.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1", astropremierleague2
