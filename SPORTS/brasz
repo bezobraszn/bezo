@@ -66,6 +66,46 @@ https://popmi.my.id/tes.m3u8?id=18252
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=18253
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",AstroBadminton
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroBadminton.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",AstroBadminton2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/AstroBadminton2.m3u
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",AstroSSB1
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",AstroSSB2
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",AstroSSB3
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB3.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",AstroSSB4
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB4.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",AstroBadminton
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroBadminton.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",AstroBadmintonB
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroBadmintonB.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",BeinAsia1
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/BeinAsia1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",BeinAsia2
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/BeinAsia2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",BeinAsia3
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/BeinAsia3.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",foxsport501
+https://raw.githubusercontent.com/B-inal-123/s-australia/refs/heads/inal-22/foxsport501.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",foxsport502
+https://raw.githubusercontent.com/B-inal-123/s-australia/refs/heads/inal-22/foxsport502.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",foxsport503
+https://raw.githubusercontent.com/B-inal-123/s-australia/refs/heads/inal-22/foxsport503.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",foxsport504
+https://raw.githubusercontent.com/B-inal-123/s-australia/refs/heads/inal-22/foxsport504.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",foxsport505
+https://raw.githubusercontent.com/B-inal-123/s-australia/refs/heads/inal-22/foxsport505.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",foxsport506
+https://raw.githubusercontent.com/B-inal-123/s-australia/refs/heads/inal-22/foxsport506.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",foxsport507
+https://raw.githubusercontent.com/B-inal-123/s-australia/refs/heads/inal-22/foxsport507.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|2.TES",foxsport508
+https://raw.githubusercontent.com/B-inal-123/s-australia/refs/heads/inal-22/foxsport508.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", astrofootball.m3u8
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/astrofootball.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1.TES", astrograndstand.m3u8
